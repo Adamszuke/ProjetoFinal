@@ -1,4 +1,4 @@
-algoritmo "Calcular Entrada e Prestações"
+algoritmo "Nome do Programa"
 // Disciplina:[Linguagem e Lógica de Programação]
 // Professor : [Nome do Professor]
 // Descrição : Programa que calcula a entrada e as duas prestações para o valor da mercadoria
